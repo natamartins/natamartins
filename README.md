@@ -1,4 +1,4 @@
-## olá sou o  Natã Martins, estudante de programação!
+## olá sou o  Natã Martins. Sou estudante de programação!
 <div align="center" display= " Flex">
   <a href="https://github.com/natamartins">
   <img align=" center" height="180em" src="https://github-readme-stats.vercel.app/api?username=natamartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
