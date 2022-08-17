@@ -1,5 +1,5 @@
 <h1>Natã Martins. Engenheiro de software <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
+![nathan coding](https://i.imgur.com/1ZvVkDc.gif)
 <div align="center" display= " Flex">
   <a href="https://github.com/natamartins">
   <img align=" center" height="180em" src="https://github-readme-stats.vercel.app/api?username=natamartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
