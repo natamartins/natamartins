@@ -3,7 +3,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 
-## 🔮 Minha Stack
+## 🧠 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="center">
