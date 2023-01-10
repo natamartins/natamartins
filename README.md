@@ -6,7 +6,7 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## 🧠<div><img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="100"> <p>Minha Stack</p></div>
+## 🧠<div display="flex"><img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="100"> <p>Minha Stack</p></div>
  Essas são algumas das tecnologias que uso no dia a dia
 <div align="center">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
