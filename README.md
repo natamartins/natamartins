@@ -1,7 +1,7 @@
 <h1>Natã Martins. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p>Hello, my name is Nathan, I'm a Front End programmer. I'm currently studying to specialize in React and JavaScript.</p>
 <p>Ahh, my hobbies are playing guitar and drinking coffee. 😃</p>
-<div align-items="center">
+<div display="flex" align-items="center">
  <p>Fasten your seat belts, my next stop is to take over a universe called the Frontend. 
  <img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/200w.webp" width="30"></p>
 </div>
