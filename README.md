@@ -2,7 +2,7 @@
 <p>Hello, my name is Nathan, I'm a Front End programmer. I'm currently studying to specialize in React and JavaScript.</p>
 <p>Ahh, my hobbies are playing guitar and drinking coffee. 😃</p>
 <p>Fasten your seat belts, my next stop is to take over a universe called the Frontend. 
- <img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/200w.webp" width="10"></p>
+ <img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/200w.webp" width="30"></p>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
