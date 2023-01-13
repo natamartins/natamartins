@@ -30,6 +30,7 @@
  <a href="https://github.com/natamartins">
  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=natamartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/apiusername=natamartins&show_icons=true&theme=dracula&show_icons=true&count_private=true"/>
+ </a>
 </div>
 
 <div> 
