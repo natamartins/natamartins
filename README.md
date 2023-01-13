@@ -33,10 +33,6 @@
  </a>
 </div>
 
-<div>
- | ![Natã github stats](https://github-readme-stats.vercel.app/api?username=natamartins&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=natamartins&theme=radical&layout=compact) |
-</div>
-
 <div> 
   <a href="https://www.instagram.com/nata_martins188/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
