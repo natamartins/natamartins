@@ -34,7 +34,7 @@
 </div>
 
 <div> 
-  <a href="https://www.instagram.com/nathanmartins188/" target="_blank">
+  <a href="https://www.instagram.com/nata_martins188/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/nat%C3%A3-martins-0a1581229/" target="_blank">
