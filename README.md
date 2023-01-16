@@ -1,5 +1,4 @@
 <h1>Natã Martins. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp" width="30px"></h1>
-<p>Hello, my name is Nathan, I'm a Front End programmer. I'm currently studying to specialize in React and JavaScript.</p>
 
 <p>
 const me = {
