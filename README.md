@@ -1,19 +1,6 @@
 <h1>Natã Martins. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp" width="30px"></h1>
-
-<p>
-const me = {
-   <p>name: "Natã Martins da silva",</p>
-    <p>age: 19,</p>
-    <p>job: "Software Developer Front-End",</p>
-    <p>company: "...",</p>
-    <p>hobby: "my hobbies are playing guitar and drinking coffee.",</p>
-    <p>
-    social: {
-        <p>discord: "https://discord.com/channels/@me",</p>
-    }
-    </p>
-}
-</p>
+<p>Olá sou o Natã Martins Desenvolvedor Front end, Atualmente trabalho com as seguintes tecnologias:</p>
+<p>HTML5, CSS3, JavaScrip, Reactjs, Nextel.js, Typescript, Git e Github, UI/UX Design, APIS, Frameworks, Bibliotecas, </p>
 
  <img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/200w.webp" width="30"></p>
 
