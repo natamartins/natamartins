@@ -5,12 +5,14 @@
 const me = {
    <p>name: "Natã Martins da silva",</p>
     <p>age: 19,</p>
-    job: "Software Developer Front-End",
-    company: "...",
-    hobby: "my hobbies are playing guitar and drinking coffee.",
+    <p>job: "Software Developer Front-End",</p>
+    <p>company: "...",</p>
+    <p>hobby: "my hobbies are playing guitar and drinking coffee.",</p>
+    <p>
     social: {
-        discord: "https://discord.com/channels/@me",
+        <p>discord: "https://discord.com/channels/@me",</p>
     }
+    </p>
 }
 </p>
 
