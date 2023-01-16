@@ -3,8 +3,8 @@
 
 <p>
 const me = {
-    name: "Natã Martins da silva",
-    age: 19,
+   <p>name: "Natã Martins da silva",</p>
+    <p>age: 19,</p>
     job: "Software Developer Front-End",
     company: "...",
     hobby: "my hobbies are playing guitar and drinking coffee.",
