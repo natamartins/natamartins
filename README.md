@@ -2,8 +2,6 @@
 <p>Olá sou o Natã Martins Desenvolvedor Front end, Atualmente trabalho com as seguintes tecnologias:</p>
 <p>HTML5, CSS3, JavaScrip, Reactjs, Nextel.js, Typescript, Git e Github, UI/UX Design, APIS, Frameworks, Bibliotecas, </p>
 
- <img src="https://media.giphy.com/media/VbK2YCQFWdg5nvH5wa/200w.webp" width="30"></p>
-
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## <p>  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Minha Stack</p>
