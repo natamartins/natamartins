@@ -16,7 +16,7 @@ Fasten your seat belts, my next stop is to dominate a universe called Front Endð
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## <p>  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Minha Stack</p>
+## <p displa="flex" aling-aitems="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Minha Stack</p>
  Essas sÃ£o algumas das tecnologias que uso no dia a dia
 <div align="center">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
