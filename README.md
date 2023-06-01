@@ -1,18 +1,4 @@
 <h1>Natã Martins. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp" width="30px"></h1>
-<p>
-Hello, my name is Natã Martins da silva i'm nineteen and i'm Software Developer Front-End at 2 years,i like to go academy, pratic Muay Thai, i like futsal, i like to learng new things and pass on the little knowledge i have.
-I currently have experience in
-
-> HTML, CSS, JavaScript
-> Sass, Styled-Components
-> Reactjs, TypeScript
-> Consumo de API
-> Test Automatizado
-> UI Designer
-
-Ahh, my hobbies are playing the guitar and drinking coffee☕
-Fasten your seat belts, my next stop is to dominate a universe called Front End🚀
-</p>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
