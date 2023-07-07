@@ -1,5 +1,3 @@
-<h1>Natã Martins. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp" width="30px"></h1>
-
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## <p displa="flex" aling-aitems="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Minha Stack</p>
@@ -30,7 +28,8 @@
 </div>
 
 <div> 
-  <a href="https://www.instagram.com/eusounathanmartins/" target="_blank">
+ 
+  <a href="https://www.instagram.com/nata.codedevjr/?theme=dark" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/nat%C3%A3-martins-0a1581229/" target="_blank">
