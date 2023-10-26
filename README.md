@@ -9,7 +9,7 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-## <p displa="flex" aling-aitems="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</p>
+## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</div>
  These are some of the technologies I use on a daily basis
  
 <div align="center">
@@ -29,7 +29,7 @@
 
 ##
 
-## 📈 Estatísticas
+## 📈 Statistics
 <div align="center" display="Flex" gap="200px">
  <a href="https://github.com/natamartins/natamartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natamartins&show_icons=true&theme=radical&include_all_commits=true"/>
