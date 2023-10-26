@@ -1,13 +1,13 @@
 # Hi my name is Natã Martins, i am Software Developer for 2+ years!
 
-### I started my journey in the world of programming in 2021, since then programming has become a passion. I enjoy creating amazing digital experiences that put the user experience first. I have solid skills in HTML5, CSS3, JavaScript, ReactJS and Next.js. Additionally, I'm well-versed in UI/UX design and use tools like Figma to create stunning interfaces.
+#### I started my journey in the world of programming in 2021, since then programming has become a passion. I enjoy creating amazing digital experiences that put the user experience first. I have solid skills in HTML5, CSS3, JavaScript, ReactJS and Next.js. Additionally, I'm well-versed in UI/UX design and use tools like Figma to create stunning interfaces.
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/natamartins/natamartins/main.yml?label=action&style=flat-square)](https://github.com/natamartins/natamartins/actions/workflows/main.yml)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## <p displa="flex" aling-aitems="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Minha Stack</p>
  Essas são algumas das tecnologias que uso no dia a dia
