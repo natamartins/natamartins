@@ -3,7 +3,6 @@
 ### I started my journey in the world of programming in 2021, since then programming has become a passion. I enjoy creating amazing digital experiences that put the user experience first. I have solid skills in HTML5, CSS3, JavaScript, ReactJS and Next.js. Additionally, I'm well-versed in UI/UX design and use tools like Figma to create stunning interfaces.
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/natamartins/natamartins/main.yml?label=action&style=flat-square)](https://github.com/natamartins/natamartins/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/natamartins/snk.svg?style=flat-square)](https://github.com/natamartins/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
