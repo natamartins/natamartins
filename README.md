@@ -45,6 +45,21 @@
   <a href="https://www.linkedin.com/in/nat%C3%A3-martins-0a1581229/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  
+  <picture>
+   <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/natamartins/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/natamartins/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/natamartins/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
  
   ![Snake animation](https://github.com/natamartins/natamartins/blob/output/github-contribution-grid-snake.svg)
 </div>
