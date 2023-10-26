@@ -9,8 +9,9 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-## <p displa="flex" aling-aitems="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Minha Stack</p>
- Essas são algumas das tecnologias que uso no dia a dia
+## <p displa="flex" aling-aitems="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</p>
+ These are some of the technologies I use on a daily basis
+ 
 <div align="center">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
