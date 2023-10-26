@@ -60,6 +60,5 @@
     src="https://raw.githubusercontent.com/natamartins/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
- 
-  ![Snake animation](https://github.com/natamartins/natamartins/blob/output/github-contribution-grid-snake.svg)
+
 </div>
