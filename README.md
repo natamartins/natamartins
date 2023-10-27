@@ -4,11 +4,11 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-![GitHub issues](https://img.shields.io/github/issues/kunjgit/natamartins)
-![GitHub forks](https://img.shields.io/github/forks/kunjgit/natamartins)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kunjgit/natamartins)
-![GitHub Repo stars](https://img.shields.io/github/stars/kunjgit/natamartins?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/kunjgit/natamartins)
+![GitHub issues](https://img.shields.io/github/issues/natamartins/natamartins)
+![GitHub forks](https://img.shields.io/github/forks/natamartins/natamartins)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/natamartins/natamartins)
+![GitHub Repo stars](https://img.shields.io/github/stars/natamartins/natamartins?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/natamartins/natamartins)
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fkunjgit.github.io%2FGameZone%2F)
 
 
