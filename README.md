@@ -4,10 +4,13 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/natamartins/natamartins/main.yml?label=action&style=flat-square)](https://github.com/natamartins/natamartins/actions/workflows/main.yml)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/kunjgit/natamartins)
+![GitHub forks](https://img.shields.io/github/forks/kunjgit/natamartins)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kunjgit/natamartins)
+![GitHub Repo stars](https://img.shields.io/github/stars/kunjgit/natamartins?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/kunjgit/natamartins)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fkunjgit.github.io%2FGameZone%2F)
+
 
 ## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</div>
  These are some of the technologies I use on a daily basis
