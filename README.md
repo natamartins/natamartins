@@ -5,7 +5,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ![GitHub issues](https://img.shields.io/github/issues/natamartins/natamartins)
-![GitHub forks](https://img.shields.io/github/forks/natamartins/natamartins)
+![GitHub forks](https://img.shields.io/github/forks/natamartins&include_all_forks=true/natamartins)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/natamartins/natamartins)
 ![GitHub Repo stars](https://img.shields.io/github/stars/natamartins/natamartins?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/natamartins/natamartins)
