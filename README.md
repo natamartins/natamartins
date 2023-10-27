@@ -46,6 +46,8 @@
   </a> 
 </div>
 
+![snake](github-user-contribution.svg)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -60,13 +62,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
