@@ -1,4 +1,4 @@
-# Hi my name is Natã Martins, i'm Software Developer for over 2+ years!
+# Hi my name is Natã Martins, i'm Frontend Developer for more that 2 years!
 
 #### I started my journey in the world of programming in 2021, since then programming has become a passion. I enjoy creating amazing digital experiences that put the user experience first. I have solid skills in HTML5, CSS3, JavaScript, ReactJS and Next.js. Additionally, I'm well-versed in UI/UX design and use tools like Figma to create stunning interfaces.
 
